@@ -1,1 +1,1 @@
-# home_value_pridiction
+# home_value_prediction
